@@ -90,7 +90,7 @@ Feel free to fork this repo and improve the dashboard or add more insights.
 
 **MAHESH LOHAR**
 
-- 💼 LinkedIn: linkedin.com/in/mahesh-lohar-557762249 
+- 💼 LinkedIn: www.linkedin.com/in/mahesh-lohar-557762249
 - 📧 Email: maheshlohar2214@gmail.com  
 
 ---
