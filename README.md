@@ -90,9 +90,8 @@ Feel free to fork this repo and improve the dashboard or add more insights.
 
 **MAHESH LOHAR**
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your@email.com  
-- 🐙 GitHub: https://github.com/your-username
+- 💼 LinkedIn: linkedin.com/in/mahesh-lohar-557762249 
+- 📧 Email: maheshlohar2214@gmail.com  
 
 ---
 ## ⭐ iF you like this project , don't forgot to star the repo!
