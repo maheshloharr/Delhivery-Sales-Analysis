@@ -36,18 +36,21 @@ Built with a focus on **clarity, usability, and decision-making**.
 ## 📸 Dashboard Preview
 
 ### 🏠 Main Overview
-<img width="1140" height="640" alt="Screenshot 2026-04-16 133009" src="https://github.com/user-attachments/assets/95867f68-5019-4d0e-a693-e62842599ec7" />
+<img width="1163" height="658" alt="Screenshot 2026-04-22 155356" src="https://github.com/user-attachments/assets/3b10d86a-47a8-4431-b8fc-0b143af97d23" />
+
 
 
 ### 📦 Product & Return Insights
-<img width="1136" height="639" alt="Screenshot 2026-04-16 133047" src="https://github.com/user-attachments/assets/07522b09-1291-4c50-b75c-8bac3d2ccda8" />
+<img width="1164" height="658" alt="Screenshot 2026-04-22 155554" src="https://github.com/user-attachments/assets/4a10ee6c-5eca-43c3-b8a3-dd41181eb851" />
 
 
 ### 👥 Customer Insights
-<img width="1137" height="639" alt="Screenshot 2026-04-16 133027" src="https://github.com/user-attachments/assets/3b1f1a36-56f1-4e10-84bb-0020c029c879" />
+<img width="1163" height="661" alt="Screenshot 2026-04-22 155516" src="https://github.com/user-attachments/assets/aaeac3f5-7cd4-4b22-87b1-4b1e6c5529e7" />
 
-### 👥 Tooltips Insights
-<img width="1309" height="735" alt="Screenshot 2026-04-16 133120" src="https://github.com/user-attachments/assets/31ec33f8-de36-4f43-a68d-6f995faf38b7" />
+
+### 📸 Tooltips Insights
+<img width="1162" height="658" alt="Screenshot 2026-04-22 155652" src="https://github.com/user-attachments/assets/938b72d4-3718-49e8-ba40-b679ce13ec1f" />
+
 
 
 ---
